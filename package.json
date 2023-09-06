@@ -1,0 +1,35 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "This is my first Ecommerce Project!!",
+  "main": "app.js",
+  "scripts": {
+    "test": "This is my First Ecommerce Project!",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Ecommerce"
+  },
+  "keywords": [
+    "This",
+    "is",
+    "my",
+    "first",
+    "Ecommerce",
+    "Project!!"
+  ],
+  "author": "Subha",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.9.4",
+    "nodemon": "^3.0.1"
+  }
+}
